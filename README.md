@@ -2,6 +2,8 @@
 
 A hardware + Arduino project implementing binary adder circuits using 74LS-series logic gates. An Arduino reads the sum outputs and drives a 7-segment display to show the result in decimal.
 
+https://github.com/user-attachments/assets/7224ebd7-d1c3-49c8-ae35-936b9250ca5a
+
 ---
 
 ## Binary Addition
