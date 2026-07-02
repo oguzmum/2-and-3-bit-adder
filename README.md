@@ -52,6 +52,10 @@ The 3-bit adder extends the 2-bit design with a second full adder. It adds two 3
 
 The carry output of each stage feeds directly into the XOR and AND gates of the next stage.
 
+### Assembled Circuit
+
+![3-bit adder breadboard](images/3-bit-adder-breadboard.png)
+
 ---
 
 ## 7-Segment Display
